@@ -52,8 +52,6 @@ build/
 *~
 
 # === LARGE DIRECTORIES ===
-home/
-Library/
 
 # === HERMES INTERNAL ===
 .hub/
