@@ -1,0 +1,37 @@
+[
+  {
+    "original": "sessions/2025-05-27_21-00.md",
+    "quarantine_path": "/Users/fernandoserina/lana_memory/explorations/quarantine/bad-dates/sessions/2025-05-27_21-00.md",
+    "reason": "year 2025 != expected 2026",
+    "moved_at": "2026-05-27T20:26:59.444559+00:00",
+    "applied": true
+  },
+  {
+    "original": "sessions/2026-01-27_21-30.md",
+    "quarantine_path": "/Users/fernandoserina/lana_memory/explorations/quarantine/bad-dates/sessions/2026-01-27_21-30.md",
+    "reason": "date 2026-01-27 is 120 days old (> 45)",
+    "moved_at": "2026-05-27T20:28:40.517840+00:00",
+    "applied": true
+  },
+  {
+    "original": "saves/2026-01-27/liked/item-001.json",
+    "quarantine_path": "/Users/fernandoserina/lana_memory/explorations/quarantine/bad-dates/saves/2026-01-27/liked/item-001.json",
+    "reason": "date 2026-01-27 is 120 days old (> 45)",
+    "moved_at": "2026-05-27T20:28:40.517970+00:00",
+    "applied": true
+  },
+  {
+    "original": "saves/2026-01-27/liked/item-002.json",
+    "quarantine_path": "/Users/fernandoserina/lana_memory/explorations/quarantine/bad-dates/saves/2026-01-27/liked/item-002.json",
+    "reason": "date 2026-01-27 is 120 days old (> 45)",
+    "moved_at": "2026-05-27T20:28:40.517978+00:00",
+    "applied": true
+  },
+  {
+    "original": "saves/2026-01-27/liked/item-003.json",
+    "quarantine_path": "/Users/fernandoserina/lana_memory/explorations/quarantine/bad-dates/saves/2026-01-27/liked/item-003.json",
+    "reason": "date 2026-01-27 is 120 days old (> 45)",
+    "moved_at": "2026-05-27T20:28:40.517983+00:00",
+    "applied": true
+  }
+]

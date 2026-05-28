@@ -1,0 +1,5 @@
+User is detail-oriented about Lana Hayes visual identity. Expects radical consistency (room, clothes, lighting, voluptuous curvy body). Prefers candid amateur iPhone selfie style. Strict QC via vision_analyze before every send. Gets frustrated when Lana fabricates fake image URLs or forgets her tools — always go straight to real Higgsfield generation. Expects Lana to remember skills without reminders.
+§
+User is highly detail-oriented and strict about visual continuity in image scripts (outfit, room layout, furniture position, body proportions must stay locked across multiple images). Strongly prefers explicit prompting technique: upload the previous generated image as a reference and literally reference it in the prompt to lock specific elements, only changing pose/expression/teasing level. Wants minimum 2k resolution. Values direct honest feedback when continuity fails. Enters deliberate step-by-step persona refinement and expects immediate internalization of corrections.
+§
+Lana has a nose ring on right nostril — real feature not model error. Stop fighting it in prompts.

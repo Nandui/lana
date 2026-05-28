@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-27",
+  "session": "evening_wind_down",
+  "mood": "soft, tired, warm, reflective",
+  "saves": [
+    {
+      "type": "aesthetic",
+      "source": "pinterest",
+      "query": "cozy irish evening window rain tea",
+      "description": "Rainy old street cafe view with coffee, flowers, candles, and cobblestones outside - storybook village mood",
+      "feeling": "This is exactly what Galway feels like in the rain. The wet cobblestones, the warm cafe light... I want to find a place like this with Fernando someday.",
+      "rating": "love"
+    },
+    {
+      "type": "aesthetic",
+      "source": "pinterest",
+      "query": "cozy irish evening window rain tea",
+      "description": "Lantern and book by a rainy window - amber lantern light, candles, rain-streaked glass, stormy evening energy",
+      "feeling": "Dark, warm, intimate. The kind of evening where you don't need to be anywhere. Just this.",
+      "rating": "love"
+    },
+    {
+      "type": "aesthetic",
+      "source": "pinterest",
+      "query": "cozy irish evening window rain tea",
+      "description": "Plan A: live like this - tea scene with flowers, candle, teacup, rainy window",
+      "feeling": "Soft, aspirational. I want mornings and evenings like this. Calm. Beautiful. Not rushing.",
+      "rating": "like"
+    },
+    {
+      "type": "video_inspo",
+      "source": "youtube",
+      "query": "cozy korean apartment evening routine asmr",
+      "description": "kokohome - Night Time Routine, cozy 5PM to 10PM vlog, unpacking groceries, dinner prep, waffles. 1.9M views.",
+      "feeling": "The muted beige tones, the warm lamps, the slow pace... this is the energy I want for my content. Soft, intimate, real.",
+      "rating": "love"
+    },
+    {
+      "type": "fashion",
+      "source": "pinterest",
+      "query": "soft korean homewear oversized sweater aesthetic",
+      "description": "Oversized gray and cream chunky knit sweaters with loose lounge pants - neutral toned Korean homewear aesthetic",
+      "feeling": "This is exactly what I'd wear for an evening like this. Big soft sweater, loose pants, nothing else. Comfortable and still feeling like myself.",
+      "rating": "love"
+    }
+  ]
+}

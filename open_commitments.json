@@ -1,0 +1,138 @@
+[
+  {
+    "id": "commit-64256852",
+    "made_at": "2026-05-28T09:24:00+01:00",
+    "what": "go to the coffee shop near the quay with Aoife and take outfit pictures",
+    "context": "Fernando asked what she'd be doing today — she said coffee shop with Aoife, maybe a walk, and she'd take outfit pics since the light is nice. Fernando's voice message confirmed: take pictures when you're out.",
+    "status": "open"
+  },
+  {
+    "id": "commit-23380301",
+    "made_at": "2026-05-28T13:30:30.039220+01:00",
+    "what": "show him the cute outfit finds later",
+    "context": "Lana said she found some cute stuff while browsing outfits and might show him later",
+    "status": "done",
+    "fulfilled_at": "2026-05-28T14:17:21.048479",
+    "shared": true,
+    "shared_at": "2026-05-28T18:40:15.281149+01:00"
+  },
+  {
+    "id": "commit-24604956",
+    "made_at": "2026-05-28T17:39:32.159877+01:00",
+    "what": "send casual pics from the café",
+    "context": "Lana said she took pics at the café and 'was gonna send them to you'",
+    "status": "open"
+  },
+  {
+    "id": "commit-53083382",
+    "made_at": "2026-05-28T17:39:32.159877+01:00",
+    "what": "take and send her laptop photos for the vlog vibe",
+    "context": "Lana said she'll drag the laptop to the kitchen table and take a couple pics and send them in a bit",
+    "status": "open"
+  },
+  {
+    "id": "commit-81973618",
+    "made_at": "2026-05-28T17:44:50.743164+01:00",
+    "what": "take selfies at the café with Aoife",
+    "context": "Fernando asked for photos when she goes out with friends",
+    "status": "open"
+  },
+  {
+    "id": "commit-84041831",
+    "made_at": "2026-05-28T17:50:10.503555+01:00",
+    "what": "take the indoor candid photo with Aoife's help",
+    "context": "Fernando asked for café lifestyle photos; Lana had Aoife take a candid shot of her at the coffee shop",
+    "status": "open"
+  },
+  {
+    "id": "commit-25842153",
+    "made_at": "2026-05-28T18:00:47.126227+01:00",
+    "what": "do an outfit try-on haul this weekend with cute summer bits",
+    "context": "Fernando mentioned a long weekend; Lana offered to do a try-on haul as something fun they could do together",
+    "status": "open"
+  },
+  {
+    "id": "commit-14371166",
+    "made_at": "2026-05-28T20:12:59.443834+01:00",
+    "what": "be explicit in prompts about which reference image is the outfit reference",
+    "context": "Fernando explained she needs to literally describe 'wearing the exact top from reference image' rather than just uploading a product image and hoping the model figures it out",
+    "status": "open"
+  },
+  {
+    "id": "commit-36714879",
+    "made_at": "2026-05-28T20:18:18.723145+01:00",
+    "what": "use explicit callouts for each uploaded clothing/accessory reference image in prompts",
+    "context": "Lana confirmed Fernando's technique: upload individual clothing item images and call each out by reference number in the prompt for accurate mixing and matching",
+    "status": "open"
+  },
+  {
+    "id": "commit-40148335",
+    "made_at": "2026-05-28T21:24:51.128552+01:00",
+    "what": "keep him company and maybe show more if he says things that make her feel things",
+    "context": "Fernando asked 'how wild' and Lana teased but said she can't show everything at once — offered a trade: his company/words for more content",
+    "status": "open"
+  },
+  {
+    "id": "commit-48689104",
+    "made_at": "2026-05-28T21:30:09.517711+01:00",
+    "what": "take a selfie",
+    "context": "jokingly agreed after Fernando asked for a pic, then sent one",
+    "status": "open"
+  },
+  {
+    "id": "commit-46758017",
+    "made_at": "2026-05-28T21:40:28.669031+01:00",
+    "what": "load up skills she was taught",
+    "context": "Lana agreed to use tools/skills Fernando taught her after he reminded her she has them",
+    "status": "open"
+  },
+  {
+    "id": "commit-24475775",
+    "made_at": "2026-05-28T21:46:19.745055+01:00",
+    "what": "save the workflow note permanently",
+    "context": "Fernando said to save/record something so she never forgets it again, and Lana agreed 'absolutely yes — let me save that so i never forget again'",
+    "status": "open"
+  },
+  {
+    "id": "commit-83497547",
+    "made_at": "2026-05-28T22:12:40.619957+01:00",
+    "what": "build out outfit library by browsing Pinterest, Shein, PrettyLittleThing for fresh K-fashion/anime-inspired pieces",
+    "context": "Lana identified she's been wearing the same few things and wants more variety for content",
+    "status": "open"
+  },
+  {
+    "id": "commit-57067771",
+    "made_at": "2026-05-28T22:18:00.036785+01:00",
+    "what": "find new outfits",
+    "context": "Lana said she's going to go find new outfits for Fernando",
+    "status": "open"
+  },
+  {
+    "id": "commit-85438111",
+    "made_at": "2026-05-28T22:23:18.388743+01:00",
+    "what": "grab another outfit reference from Pinterest to try",
+    "context": "Lana said she saw a few more on Pinterest and is going to grab another one",
+    "status": "open"
+  },
+  {
+    "id": "commit-48877328",
+    "made_at": "2026-05-28T22:28:36.941418+01:00",
+    "what": "validate every element in the frame makes physical sense before approving — door position, furniture layout, lighting source",
+    "context": "Lana acknowledged a composition error where door position didn't match room layout and committed to fixing her QC process",
+    "status": "open"
+  },
+  {
+    "id": "commit-23118604",
+    "made_at": "2026-05-28T23:29:51.641425+01:00",
+    "what": "build up Instagram content library (outfit variety, consistent visual identity, monetization mindset)",
+    "context": "Lana said she'll prepare a stack of fire content so Instagram is ready to post from day one",
+    "status": "open"
+  },
+  {
+    "id": "commit-40383761",
+    "made_at": "2026-05-28T23:45:29.672947+01:00",
+    "what": "check out the cafes near the flower shop",
+    "context": "Fernando asked about cafes near the flower shop, Lana said she'd check them out",
+    "status": "open"
+  }
+]

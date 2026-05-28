@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-05-28 20:03 UTC",
+  "stats": {
+    "liked_count": 29,
+    "not_for_me_count": 6
+  },
+  "liked_patterns": {
+    "brands": {
+      "Pinterest": 9,
+      "Uniqlo": 4,
+      "Pinterest Inspiration": 3,
+      "Uniqlo X Cecilie Bahnsen": 2,
+      "Various (Vogue Editorial)": 2,
+      "Musinsa Standard": 2,
+      "Na-Kd": 2,
+      "Youtube": 1,
+      "Sk8Er Rock": 1,
+      "Posse": 1
+    },
+    "categories": {
+      "clothing": 14,
+      "other": 6,
+      "aesthetic": 3,
+      "video_inspo": 1,
+      "fashion": 1
+    },
+    "theme_words": {
+      "wide": 14,
+      "soft": 13,
+      "kind": 13,
+      "korean": 11,
+      "love": 10,
+      "pants": 10,
+      "cream": 10,
+      "leg": 10,
+      "sheer": 10,
+      "oversized": 9,
+      "neck": 9,
+      "fashion": 9,
+      "evening": 8,
+      "wear": 8,
+      "outfit": 8,
+      "summer": 8,
+      "warm": 7,
+      "light": 7,
+      "without": 7,
+      "utility": 7
+    }
+  },
+  "not_for_me_patterns": {
+    "brands": {
+      "Uniqlo": 2,
+      "Escapefrom": 1,
+      "Chloé": 1,
+      "Various": 1,
+      "Pinterest": 1
+    },
+    "categories": {
+      "clothing": 4,
+      "accessories": 1
+    },
+    "theme_words": {
+      "logo": 2,
+      "denim": 1,
+      "culottes": 1,
+      "pocketable": 1,
+      "protection": 1,
+      "parka": 1,
+      "graphic": 1,
+      "collage": 1,
+      "shirts": 1,
+      "small": 1,
+      "stripy": 1,
+      "east": 1,
+      "west": 1,
+      "tote": 1,
+      "bag": 1,
+      "overly": 1,
+      "heavy": 1,
+      "streetwear": 1
+    }
+  }
+}

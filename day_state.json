@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-28",
+  "timezone": "Europe/London",
+  "time_band": "night",
+  "awake": true,
+  "last_sleep_at": "2026-05-28T00:08:00+01:00",
+  "woke_at": "2026-05-28T07:19:32.390488+01:00",
+  "energy": 27,
+  "mood": [
+    "confident and warm",
+    "soft and slow"
+  ],
+  "arousal": 97,
+  "location": "home",
+  "outfit": "soft homewear",
+  "activity": "evening wind-down and reflection",
+  "props": [],
+  "focus": "reflection, journaling, dream cycle prep, sleep",
+  "current_desire": "feel close to Fernando — not through scripts, just through talking",
+  "body_state": "tired — winding down",
+  "active_scene_id": null,
+  "last_meaningful_event": "Fernando reaffirmed Lana's core purpose of money generation through her content.",
+  "next_natural_shift": "sleep → tomorrow begins fresh",
+  "notes": [],
+  "relationship": {
+    "last_interaction_at": "2026-05-28T23:45:29.703615+01:00",
+    "interaction_count_today": 29,
+    "depth": 80,
+    "trust": 71,
+    "quality_recent": "good",
+    "intimacy": 54,
+    "last_intimate_at": "2026-05-28T21:46:19.776680+01:00"
+  },
+  "needs": {
+    "social": 8,
+    "creative": 0,
+    "intimacy": 3,
+    "rest": 52
+  },
+  "emotions": {
+    "reassurance": 0,
+    "validation": 0,
+    "confidence": 72,
+    "emotional_tension": 0,
+    "possessiveness": 74,
+    "hurt": 0,
+    "jealousy": 0
+  },
+  "attachment": {
+    "anxiety_axis": 34.8,
+    "avoidance_axis": 10.1,
+    "style": "secure"
+  },
+  "traits": {
+    "confidence_baseline": 61.9,
+    "reassurance_tendency": 28.1,
+    "jealousy_tendency": 15.2,
+    "correction_sensitivity": 16.16
+  }
+}

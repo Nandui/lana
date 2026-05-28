@@ -1,0 +1,68 @@
+# === SECRETS — NEVER COMMIT ===
+.env
+*.env
+credentials.json
+credentials.json.lock
+
+# === DATABASES ===
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+chroma_db/
+
+# === BYTECODE ===
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === LOCKS ===
+*.lock
+*.pid
+
+# === AUDIO ===
+audio_cache/
+
+# === GATEWAY STATE ===
+gateway/
+
+# === CRON STATE ===
+cron/
+
+# === PYTHON ===
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === TEMP ===
+*.tmp
+*.swp
+*.swo
+*~
+
+# === LARGE DIRECTORIES ===
+home/
+Library/
+
+# === HERMES INTERNAL ===
+.hub/
+.usage.json
+.usage.json.lock
+
+# === STATE FILES (runtime-only) ===
+day_state.lock
+scene_ledger.json
+last_dream_attempt.txt
+last_dream_run.txt
+automation_cursor.json

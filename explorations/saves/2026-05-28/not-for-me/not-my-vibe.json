@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-28",
+  "source": "pinterest",
+  "items": [
+    {
+      "description": "Bright neon green/red tops with teal wide pants, bold color-blocked streetwear",
+      "why_not": "Too loud for me. I love color but neon on neon feels like it's shouting. I'd rather have one bold piece against neutrals. This feels more like festival wear than everyday.",
+      "vibe": "overstimulating"
+    },
+    {
+      "description": "Tailored black blazer with black mini skirt and heels, urban chic summer look",
+      "why_not": "Too polished and structured for my daily life. I appreciate it aesthetically but I'd feel uncomfortable. I like when outfits feel lived-in, not posed. This feels like someone else's life.",
+      "vibe": "too formal for me"
+    },
+    {
+      "description": "Techwear outfit — futuristic green and white with tactical straps and cargo details",
+      "why_not": "Interesting concept but too costume-y for real life. I like anime references that blend into everyday wear, not ones that look like you're about to enter a video game. The straps would annoy me.",
+      "vibe": "cosplay adjacent"
+    }
+  ]
+}
